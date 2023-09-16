@@ -14,3 +14,19 @@ body{
 #container h1{
     font-size: 20px;
 }
+#cabecera{
+    background: #33a;
+    color: white;
+    margin: 0;
+    padding: 0.5em;
+    font-weight: bold;
+    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.7);
+}
+#post{
+    padding: 1em;
+}
+#tag-line{
+    font-weight: normal;
+    font-size: 0.8em;
+    padding: 0 0 0 1em;
+}
